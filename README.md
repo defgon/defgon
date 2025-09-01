@@ -5,7 +5,7 @@ Focused on programming, calculus, algebra, statistics, and problem solving.
 ---
 
 ## 🖥️ Main tech & skills  
-- **Languages:** C++, Python  
+- **Languages:** C++, Python (beginner)
 - **Tools:** Git, Linux, CMake  
 - **Specialties:** Algorithms, Data Analysis, Neural network basics  
 
